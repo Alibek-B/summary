@@ -1,0 +1,5 @@
+.nobull {
+  float: left;
+  list-style-type: none;
+  padding: 0;
+}
